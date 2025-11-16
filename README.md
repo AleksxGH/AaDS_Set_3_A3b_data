@@ -32,7 +32,7 @@
 
 | Файл | Описание |
 |------|----------|
-| **sorting_results.csv** | Экспериментальные данные по времени выполнения QuickSort и IntroSort |
+| **sorting_results.xlsx** | Экспериментальные данные по времени выполнения QuickSort и IntroSort |
 
 ---
 
